@@ -1,5 +1,5 @@
 from .ImageAnalytics import ImageAnalytics
-from .image_analysis.image_helper import open_img
+from .helpers.image_helper import open_img
 
 
 ia = ImageAnalytics()
